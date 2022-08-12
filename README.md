@@ -379,7 +379,7 @@ sudo make uninstall
 All options changeable from within UI.
 Config files stored in "$HOME/.config/bpytop" folder
 
-#### bpytop.cfg: (auto generated if not found)
+#### bpytop.conf: (auto generated if not found)
 
 "/etc/bpytop.conf" will be used as default seed for config file creation if it exists. ("/usr/local/etc/bpytop.conf" on BSD)
 
